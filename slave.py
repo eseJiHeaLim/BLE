@@ -1,6 +1,5 @@
 import bluetooth
 import socket
-from raspshot import happy
 from picamera import PiCamera
 
 
